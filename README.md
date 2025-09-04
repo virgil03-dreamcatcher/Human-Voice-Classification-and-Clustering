@@ -1,2 +1,2 @@
 # Human-Voice-Classification-and-Clustering
-Develop a machine learning-based model to classify and cluster human voice samples based on extracted audio features. 
+Develop a machine learning-based model to classify and cluster human voice samples based on extracted audio features. The system will preprocess the dataset, apply clustering and classification models, and evaluate their performance. The final application will provide an interface for uploading audio samples and receiving predictions, deployed via Streamlit.
